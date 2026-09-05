@@ -1,16 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:2563EB,100:06B6D4&height=200&section=header&text=hola%2C%20soy%20Osmar&fontSize=52&fontColor=ffffff&fontAlignY=34&desc=hago%20apps%20%C2%B7%20a%20veces%20funcionan%20a%20la%20primera&descAlignY=54&descSize=16" width="100%" alt="Osmar Vilchez" />
-
-<a href="https://osomar1705.github.io">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=2563EB&center=true&vCenter=true&width=580&lines=CS+en+UTEC+%F0%9F%87%B5%F0%9F%87%AA;Next.js+%C2%B7+FastAPI+%C2%B7+Spring+Boot+%C2%B7+C%2B%2B;si+no+est%C3%A1+desplegado%2C+no+cuenta;rompo+cosas+en+local+para+no+romperlas+en+prod" alt="Typing SVG" />
-</a>
-
-<br/>
+<img src="https://raw.githubusercontent.com/Osomar1705/Osomar1705/main/banner.svg" width="100%" alt="hola, soy Osmar - hago apps y las pongo en internet" />
 
 <a href="https://osomar1705.github.io"><img src="https://img.shields.io/badge/mi%20portafolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio" /></a>
 <a href="https://github.com/Osomar1705?tab=repositories"><img src="https://img.shields.io/badge/21%20repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repos" /></a>
-<img src="https://img.shields.io/badge/busco%20pr%C3%A1cticas-6D28D9?style=for-the-badge&logo=handshake&logoColor=white" alt="Busco prácticas" />
+<img src="https://img.shields.io/badge/busco%20pr%C3%A1cticas-6D28D9?style=for-the-badge&logo=handshake&logoColor=white" alt="Busco practicas" />
 
 </div>
 
@@ -149,12 +143,7 @@ Dashboards separados para conductor y pasajero, con el ciclo del viaje completo.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Osomar1705&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=2563EB&icon_color=6D28D9&bg_color=00000000" alt="Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osomar1705&layout=compact&langs_count=8&hide_border=true&title_color=2563EB&bg_color=00000000" alt="Lenguajes" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Osomar1705&hide_border=true&background=00000000&ring=2563EB&fire=6D28D9&currStreakLabel=2563EB" alt="Racha" />
+<img src="https://raw.githubusercontent.com/Osomar1705/Osomar1705/main/stats.svg" width="100%" alt="lenguajes que mas uso" />
 
 </div>
 
@@ -177,6 +166,5 @@ si tienes prácticas, un proyecto raro, o solo quieres hablar de código — por
 
 *el código que no se despliega es solo un archivo de texto*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:6D28D9&height=120&section=footer" width="100%" alt="" />
 
 </div>
