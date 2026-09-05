@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="236" viewBox="0 0 1000 236" role="img" aria-label="lenguajes que mas uso">
+<defs><clipPath id="round"><rect x="40" y="96" width="920" height="22" rx="11"/></clipPath></defs>
+<rect width="1000" height="236" rx="14" fill="#0d1117" stroke="#22223a" stroke-width="1.5"/>
+<text x="40" y="48" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#f4f4f8">lenguajes que más uso</text>
+<text x="40" y="72" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#8b949e">4.4 MB de código  ·  21 repos activos  ·  sin contar CSS ni archivos generados</text>
+<g clip-path="url(#round)">
+<rect x="40.00" y="96" width="480.73" height="22" fill="#3178c6"/>
+<rect x="520.73" y="96" width="154.02" height="22" fill="#b07219"/>
+<rect x="674.74" y="96" width="93.84" height="22" fill="#3572A5"/>
+<rect x="768.58" y="96" width="90.74" height="22" fill="#f34b7d"/>
+<rect x="859.32" y="96" width="59.95" height="22" fill="#f1e05a"/>
+<rect x="919.27" y="96" width="40.73" height="22" fill="#8a8a8a"/>
+</g>
+<circle cx="46" cy="154" r="6" fill="#3178c6"/>
+<text x="62" y="158" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" font-weight="600" fill="#f4f4f8">TypeScript</text>
+<text x="160" y="158" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#8b949e">52.3%</text>
+<circle cx="361" cy="154" r="6" fill="#b07219"/>
+<text x="377" y="158" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" font-weight="600" fill="#f4f4f8">Java</text>
+<text x="423" y="158" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#8b949e">16.7%</text>
+<circle cx="676" cy="154" r="6" fill="#3572A5"/>
+<text x="692" y="158" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" font-weight="600" fill="#f4f4f8">Python</text>
+<text x="756" y="158" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#8b949e">10.2%</text>
+<circle cx="46" cy="186" r="6" fill="#f34b7d"/>
+<text x="62" y="190" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" font-weight="600" fill="#f4f4f8">C++</text>
+<text x="100" y="190" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#8b949e">9.9%</text>
+<circle cx="361" cy="186" r="6" fill="#f1e05a"/>
+<text x="377" y="190" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" font-weight="600" fill="#f4f4f8">JavaScript</text>
+<text x="475" y="190" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#8b949e">6.5%</text>
+<circle cx="676" cy="186" r="6" fill="#8a8a8a"/>
+<text x="692" y="190" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" font-weight="600" fill="#f4f4f8">C</text>
+<text x="713" y="190" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#8b949e">4.4%</text>
+</svg>
