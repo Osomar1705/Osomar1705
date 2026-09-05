@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Osomar1705/Osomar1705/main/banner.svg" width="100%" alt="hola, soy Osmar - hago apps y las pongo en internet" />
+<img src="https://raw.githubusercontent.com/Osomar1705/Osomar1705/main/banner.svg" width="100%" alt="hola, soy Osmar" />
 
 <a href="https://osomar1705.github.io"><img src="https://img.shields.io/badge/mi%20portafolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio" /></a>
 <a href="https://github.com/Osomar1705?tab=repositories"><img src="https://img.shields.io/badge/21%20repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repos" /></a>
