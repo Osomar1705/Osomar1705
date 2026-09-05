@@ -1,30 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="hola, soy Osmar - hago apps y las pongo en internet">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#4C1D95"/>
-      <stop offset="45%" stop-color="#2563EB"/>
-      <stop offset="100%" stop-color="#06B6D4"/>
-    </linearGradient>
-    <linearGradient id="wave1" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.10"/>
-      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.02"/>
-    </linearGradient>
-    <linearGradient id="wave2" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#000000" stop-opacity="0.14"/>
-      <stop offset="100%" stop-color="#000000" stop-opacity="0.04"/>
-    </linearGradient>
-  </defs>
-
-  <rect width="1200" height="260" fill="url(#bg)"/>
-
-  <path d="M0,196 C170,150 300,236 470,208 C640,180 780,120 940,150 C1060,172 1140,206 1200,196 L1200,260 L0,260 Z" fill="url(#wave2)"/>
-  <path d="M0,224 C160,196 320,254 500,232 C680,210 830,166 1000,190 C1100,204 1160,228 1200,222 L1200,260 L0,260 Z" fill="url(#wave1)"/>
-
-  <circle cx="1058" cy="62" r="52" fill="#ffffff" opacity="0.07"/>
-  <circle cx="1128" cy="126" r="30" fill="#ffffff" opacity="0.05"/>
-  <circle cx="106" cy="206" r="40" fill="#ffffff" opacity="0.05"/>
-
-  <text x="64" y="104" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="54" font-weight="700" fill="#ffffff" letter-spacing="-1">hola, soy Osmar</text>
-  <text x="64" y="146" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="500" fill="#ffffff" opacity="0.92">hago apps y las pongo en internet</text>
-  <text x="66" y="188" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15" font-weight="400" fill="#ffffff" opacity="0.72">Next.js  ·  FastAPI  ·  Spring Boot  ·  C++     //     CS @ UTEC, Lima</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-label="hola, soy Osmar">
+<defs>
+<linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#4C1D95"><animate attributeName="stop-color" values="#4C1D95;#6D28D9;#4C1D95" dur="10s" repeatCount="indefinite"/></stop>
+<stop offset="48%" stop-color="#2563EB"><animate attributeName="stop-color" values="#2563EB;#1D4ED8;#2563EB" dur="10s" repeatCount="indefinite"/></stop>
+<stop offset="100%" stop-color="#06B6D4"><animate attributeName="stop-color" values="#06B6D4;#22D3EE;#06B6D4" dur="10s" repeatCount="indefinite"/></stop>
+</linearGradient>
+<linearGradient id="w1" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#ffffff" stop-opacity="0.11"/><stop offset="100%" stop-color="#ffffff" stop-opacity="0.02"/></linearGradient>
+<linearGradient id="w2" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#000000" stop-opacity="0.15"/><stop offset="100%" stop-color="#000000" stop-opacity="0.04"/></linearGradient>
+<clipPath id="type"><rect x="64" y="150" width="0" height="26"><animate attributeName="width" values="0.0;9.6;19.2;28.8;38.4;48.0;57.6;67.2;76.8;86.4;96.0;105.6;115.2;124.8;134.4;144.0;153.6;163.2;172.8;182.4;192.0;201.6;211.2;220.8;230.4;240.0;249.6;259.2;268.8;278.4;288.0;297.6;307.2;316.8;326.4;336.0;345.6;355.2;364.8;374.4;384.0;393.6;403.2;412.8;422.4;432.0;441.6;451.2;460.8;470.4;480.0;489.6;499.2;508.8;518.4;528.0;537.6;547.2;556.8;566.4;576.0;585.6;595.2;604.8;614.4;624.0;633.6;643.2;652.8;662.4;672.0;672.0" keyTimes="0.0000;0.0071;0.0143;0.0214;0.0286;0.0357;0.0429;0.0500;0.0571;0.0643;0.0714;0.0786;0.0857;0.0929;0.1000;0.1071;0.1143;0.1214;0.1286;0.1357;0.1429;0.1500;0.1571;0.1643;0.1714;0.1786;0.1857;0.1929;0.2000;0.2071;0.2143;0.2214;0.2286;0.2357;0.2429;0.2500;0.2571;0.2643;0.2714;0.2786;0.2857;0.2929;0.3000;0.3071;0.3143;0.3214;0.3286;0.3357;0.3429;0.3500;0.3571;0.3643;0.3714;0.3786;0.3857;0.3929;0.4000;0.4071;0.4143;0.4214;0.4286;0.4357;0.4429;0.4500;0.4571;0.4643;0.4714;0.4786;0.4857;0.4929;0.5000;1" calcMode="discrete" dur="6.4s" repeatCount="indefinite"/></rect></clipPath>
+</defs>
+<rect width="1200" height="230" fill="url(#bg)"/>
+<g><path d="M-200,168 C0,124 160,206 380,180 C600,154 760,96 960,124 C1160,152 1300,182 1400,170 L1400,230 L-200,230 Z" fill="url(#w2)"/><animateTransform attributeName="transform" type="translate" values="0,0;-90,6;0,0" dur="15s" repeatCount="indefinite"/></g>
+<g><path d="M-200,200 C-20,172 180,232 400,208 C620,184 780,140 980,166 C1140,186 1300,212 1400,202 L1400,230 L-200,230 Z" fill="url(#w1)"/><animateTransform attributeName="transform" type="translate" values="0,0;80,-5;0,0" dur="11s" repeatCount="indefinite"/></g>
+<circle cx="1058" cy="58" r="52" fill="#ffffff" opacity="0.07"><animateTransform attributeName="transform" type="translate" values="0,0;0,10;0,0" dur="7s" repeatCount="indefinite"/></circle>
+<circle cx="1128" cy="120" r="30" fill="#ffffff" opacity="0.05"><animateTransform attributeName="transform" type="translate" values="0,0;0,-8;0,0" dur="9s" repeatCount="indefinite"/></circle>
+<circle cx="106" cy="190" r="40" fill="#ffffff" opacity="0.05"><animateTransform attributeName="transform" type="translate" values="0,0;0,7;0,0" dur="8s" repeatCount="indefinite"/></circle>
+<text x="64" y="112" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="56" font-weight="700" fill="#ffffff" letter-spacing="-1" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.9s" fill="freeze"/>hola, soy Osmar</text>
+<g clip-path="url(#type)"><text x="64" y="168" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="16" fill="#ffffff" opacity="0.82">Next.js  ·  FastAPI  ·  Spring Boot  ·  C++     //     CS @ UTEC, Lima</text></g>
+<rect x="64" y="155" width="2.4" height="18" fill="#ffffff" opacity="0.9"><animate attributeName="x" values="64.0;73.6;83.2;92.8;102.4;112.0;121.6;131.2;140.8;150.4;160.0;169.6;179.2;188.8;198.4;208.0;217.6;227.2;236.8;246.4;256.0;265.6;275.2;284.8;294.4;304.0;313.6;323.2;332.8;342.4;352.0;361.6;371.2;380.8;390.4;400.0;409.6;419.2;428.8;438.4;448.0;457.6;467.2;476.8;486.4;496.0;505.6;515.2;524.8;534.4;544.0;553.6;563.2;572.8;582.4;592.0;601.6;611.2;620.8;630.4;640.0;649.6;659.2;668.8;678.4;688.0;697.6;707.2;716.8;726.4;736.0;736.0" keyTimes="0.0000;0.0071;0.0143;0.0214;0.0286;0.0357;0.0429;0.0500;0.0571;0.0643;0.0714;0.0786;0.0857;0.0929;0.1000;0.1071;0.1143;0.1214;0.1286;0.1357;0.1429;0.1500;0.1571;0.1643;0.1714;0.1786;0.1857;0.1929;0.2000;0.2071;0.2143;0.2214;0.2286;0.2357;0.2429;0.2500;0.2571;0.2643;0.2714;0.2786;0.2857;0.2929;0.3000;0.3071;0.3143;0.3214;0.3286;0.3357;0.3429;0.3500;0.3571;0.3643;0.3714;0.3786;0.3857;0.3929;0.4000;0.4071;0.4143;0.4214;0.4286;0.4357;0.4429;0.4500;0.4571;0.4643;0.4714;0.4786;0.4857;0.4929;0.5000;1" calcMode="discrete" dur="6.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.9;0.9;0;0;0.9" keyTimes="0;0.45;0.5;0.95;1" dur="1.05s" repeatCount="indefinite"/></rect>
 </svg>
